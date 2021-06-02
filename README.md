@@ -10,7 +10,8 @@ Exploring the SPL with the SPL Course from LinkedIn
 - FilesystemIterator
 - RecursiveDirectoryIterator / RecursiveIteratorIterator
 - FileInfo
-
+- FileObject
+- TempFileObject
 
 
 ---
