@@ -15,6 +15,10 @@ Exploring the SPL with the SPL Course from LinkedIn
 
 #### Data Structures
 - DoublyLinkedList
+- MinHeap
+- MaxHeap
+- Heap (abstract)
+
 
 ---
 #### What is the common directory for?
