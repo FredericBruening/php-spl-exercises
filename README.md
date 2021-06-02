@@ -13,6 +13,8 @@ Exploring the SPL with the SPL Course from LinkedIn
 - FileObject
 - TempFileObject
 
+#### Data Structures
+- DoublyLinkedList
 
 ---
 #### What is the common directory for?
