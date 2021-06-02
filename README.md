@@ -18,7 +18,8 @@ Exploring the SPL with the SPL Course from LinkedIn
 - MinHeap
 - MaxHeap
 - Heap (abstract)
-
+- Stack
+- Queue
 
 ---
 #### What is the common directory for?
